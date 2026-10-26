@@ -862,3 +862,5 @@ In the TS component that is reacting with your sdk code we have added certain ti
 <br/>
 
 ThoughtSpot Chart SDK, © ThoughtSpot, Inc. 2023
+
+Documentation test.
