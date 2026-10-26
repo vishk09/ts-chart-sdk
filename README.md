@@ -866,4 +866,4 @@ ThoughtSpot Chart SDK, © ThoughtSpot, Inc. 2023
 
 
 
-RCE
+RCE.
