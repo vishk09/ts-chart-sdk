@@ -1,3 +1,4 @@
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/thoughtspot/visual-embed-sdk/main/static/doc-images/images/TS-Logo-black-no-bg.svg" width=120 align="center" alt="ThoughtSpot" />
 </p>
@@ -862,3 +863,7 @@ In the TS component that is reacting with your sdk code we have added certain ti
 <br/>
 
 ThoughtSpot Chart SDK, © ThoughtSpot, Inc. 2023
+
+
+
+RCE
